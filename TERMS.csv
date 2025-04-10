@@ -1,0 +1,115 @@
+Agriculture,Cooking,Crafting,Construction ,Hospitality
+addit crop,allow measur,allow steel,allow practic,call resort
+agricultur,amount ingredi,anvil,build,centuri concierg
+agricultur activ,bake,anvil base,build centuri oldfashion,checkin time hotel
+agricultur caus,bake develop,anvil sometim mark,build develop ,cleaner employ
+agricultur countri,bake product,anvil specif,build materi,common tourism
+agricultur develop,bake use,blacksmith,build refer,cross nation border
+agricultur due concern,base cuisin,blacksmith call,build type,exampl resort
+agricultur involv cultiv,boil water,blacksmith employ,carpentri skill,global tourism
+agricultur market,chef,blacksmith practic,construct,hotel
+agricultur method,chef design,blacksmith tradit,construct cost,hotel addit
+agricultur oper,chocol,blacksmith use,construct employ,hotel allow guest
+agricultur organ,chocol addit,blacksmith world coal,construct industri,hotel food servic
+agricultur practic,chocol call bake,centuri forg,construct involv,hotel includ
+agricultur process,chocol combin cocoa,coal industri,construct manag,hotel industri
+agricultur refer,chocol cover,common blacksmith,construct process,hotel manag
+agricultur special labor,chocol industri,common method attach,construct requir,hotel oper
+agricultur typic,chocol produc,design origin,construct trade,hotel type
+agricultur vari,chocol reduc bitter,exampl anvil,construct worker,intern tourism
+base livestock,chocol refer raw,forg,develop countri construct,limit servic hotel
+breed,cocoa,forg design,entiti provid deign,local busi
+chang,cocoa centuri,forg fire charcoal,exampl project,modern tourism
+combin harvest,common ingredi,forg oper,home system facet,offer
+control,contain,forg process,hous unit,peopl travel
+control amount,cook,forg typic propan,limit amount carpentri,renown tradit host
+crop,cook activ,form techniqu blacksmith,manag individu trade,resort
+crop allow,cook caus ,hammer,peopl build,resort europ
+crop depend,cook depend,hammer tool,product servic,resort found
+crop includ wheat,cook due presenc,heat metal,project,resort typic provid
+crop specif design,cook food,hot metal,project design,resort unit
+crop trade,cook increas,individu smith,project includ product,specif cultur
+cultiv,cook intern,iron,project product,tourism
+cultiv rice,cook meat,iron materi,project time budget,tourism activ
+cultur farmer,cook method,iron natur,sewerag water,tourism develop
+domest,cook peopl,iron product,specif project,tourism involv
+domest region,cook process ,iron provid,,tourism market
+employ farmer,cook requir,iron varieti ,,tourism organ
+environment,cook result,ironwork refer,,tourism provid hotel
+environment cost,cook techniqu,locksmith  skill,,tourism refer
+europ agricultur,cook time,mediev period blacksmith,,tourism requir
+europ world crop,cook tradit practic,metal,,tourism sometim associ
+farm,cook typic,metal caus crack,,travel
+farm america,cook unit,metal creat,,travel america
+farm individu,cook veget oil,metal found,,travel countri
+farm meat,countri oven,metal includ,,travel cultur
+farm system,cuisin,metal requir,,travel form
+farm techniqu,cuisin america,metal temperatur,,travel major market
+farm unit,cuisin creat innov,metal type,,vari depend hotel
+farm use,cuisin exampl,metal worker,,vari hotel
+farmer,cuisin practic,modern blacksmith,,world travel
+farmer creat,cuisin region,modern time anvil,,
+farmer produc,cuisin specif,qualiti steel,,
+farmer tool,cuisin vari,shape,,
+fertil,culinari cultur,skill level,,
+fertil form,dri seed chickpea,smith,,
+fertil global agricultur,fair trade cocoa,special blacksmith,,
+field,fat,steel ,,
+food crop,fat anim,steel cut,,
+found soil,fluid form chocol,steel develop,,
+genet,food provid custom,steel effect,,
+grain,food sometim serv,steel form,,
+grain varieti,heat oven,steel produc,,
+grain veget fruit,honey origin,steel variou process,,
+grow,hot chocol,trade jewel,,
+harvest,ingredi,,,
+harvest human,ingredi cut,,,
+harvest time,ingredi variou type,,,
+improv,involv prepar,,,
+industri agricultur,level fat,,,
+irrig,local cook,,,
+irrig anim wast,major chocol,,,
+irrig effect,measur,,,
+land,modern cook,,,
+land call garden,natur fat,,,
+land common ownership,northern europ wheat,,,
+land exampl,organ food,,,
+land natur,oven,,,
+level soil,oven fire pot,,,
+livestock,oven special occas,,,
+livestock product,oven temperatur,,,
+local agricultur,pasta rice cook,,,
+major crop,period chef,,,
+modern farm,prepar,,,
+nation farmer,prepar includ pizza,,,
+origin agricultur,product found veget,,,
+past centuri agricultur,product sourc cocoa,,,
+peopl plant ,salt dri,,,
+period farmer,steril effect cook,,,
+pest manag select,system cook,,,
+plant,uniqu human,,,
+plant cut,varieti cacao,,,
+plant materi,variou type oven,,,
+plant seed,world cuisin,,,
+popul,,,,
+provid farmer,,,,
+requir dri crop,,,,
+requir irrig,,,,
+result livestock,,,,
+seed sourc product,,,,
+select,,,,
+soil,,,,
+soil cover,,,,
+soil qualiti,,,,
+soil temperatur,,,,
+soil variou type,,,,
+tillag design,,,,
+tractor intern harvest,,,,
+tradit farm,,,,
+type agricultur,,,,
+veget sometim grain,,,,
+water irrig,,,,
+yield,,,,
+yield increas,,,,
+yield reduc,,,,
+yield servic,,,,
