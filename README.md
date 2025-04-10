@@ -24,8 +24,8 @@ Then, manually adding the example sentence of each term taken from the wikipedia
 • Hospitality
 
 ## Folders
-*Python_Scripts* folder contains the frontend.py and backend.py files as well as *Files* folder that has all the 5 different vocabularies.
-*/dist* folder contains the Sub-Vocabulary Translator.exe standalone file.
+**Python_Scripts** folder contains the frontend.py and backend.py files as well as **Files** folder that has all the 5 different vocabularies.
+**/dist** folder contains the Sub-Vocabulary Translator.exe standalone file.
 
 ## Libraries
 The libraries that were used:
