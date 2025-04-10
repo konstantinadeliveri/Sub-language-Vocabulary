@@ -30,10 +30,11 @@ The libraries that were used:
 • Pandas
 • Eng_to_ipa
 
-```python```
+```
 pip install googletrans==4.0.0rc1
 pip install pandas
 pip install eng-to-ipa
+```
 
 ## OS
 The application was built in Windows x64-bit, it runs only in Windows x64
