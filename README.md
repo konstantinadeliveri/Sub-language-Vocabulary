@@ -4,7 +4,7 @@
 ## Description
 Sublanguage Vocabulary Translator is a GUI Tkinter application developed in Python, created during the development process of "Machine Learning in Sublanguage Vocabulary" thesis for Ionian University.
 The main window(basic window) contains five different buttons representing five different jobs.
-After pressing one of the five main buttons the main window is hidden and a new window opens in its place that looks like a translator.
+After pressing one of the five main buttons, a new window opens in its place that looks like a translator.
 The user enters a query and by clicking the Translate button the application searches in domain-specific vocabularies if that query exists.
 If it exists it returns the query as well as an example sentence, pronunciation in english, translation and the translated example sentence of each query based on the language the user chose and places it in a TreeView area.
 If the query doesn't exist the application returns a corresponding message.
@@ -22,6 +22,10 @@ Then, manually adding the example sentence of each term taken from the wikipedia
 • Crafting
 • Construction
 • Hospitality
+
+## Folders
+*Python_Scripts* folder contains the frontend.py and backend.py files as well as *Files* folder that has all the 5 different vocabularies.
+*/dist* folder contains the Sub-Vocabulary Translator.exe standalone file.
 
 ## Libraries
 The libraries that were used:
