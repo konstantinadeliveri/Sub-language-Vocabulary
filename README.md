@@ -18,17 +18,17 @@ The domain-specific vocabularies that contain terms and example sentences of eac
 The vocabularies were created after proper web scrapping of wikipedia articles and machine learning methods of extracting Terminology.
 Then, manually adding the example sentence of each term taken from the wikipedia articles.
 • Agriculture
-• Cooking
+ Cooking
 • Crafting
 • Construction
 • Hospitality
 
 ## Folders
-**Files** folder contains the original files after preprocessing and the focus words file with contextual features. <br>
-**Python_Scripts** folder contains the frontend.py and backend.py files as well as **Files** folder that has all the 5 different vocabularies. <br>
-**Terms and predictions** contains the files-results of terms after ML approach. <br>
-**codes** file contains all the crawling and preprocessing codes in Python as well as the symbols.txt (special symbols document) and stopwords.txt (custom stopwords list document). <br>
-**/dist** folder contains the Sub-Vocabulary Translator.exe standalone file.
+• **Files** folder contains the original files after preprocessing and the focus words file with contextual features. <br>
+• **Python_Scripts** folder contains the frontend.py and backend.py files as well as **Files** folder that has all the 5 different vocabularies. <br>
+• **Terms and predictions** contains the files-results of terms after ML approach. <br>
+• **codes** file contains all the crawling and preprocessing codes in Python as well as the symbols.txt (special symbols document) and stopwords.txt (custom stopwords list document). <br>
+• **/dist** folder contains the Sub-Vocabulary Translator.exe standalone file.
 ```
 .
 ├── Files
