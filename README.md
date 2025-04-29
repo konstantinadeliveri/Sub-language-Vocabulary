@@ -38,14 +38,14 @@ Then, manually adding the example sentence of each term taken from the wikipedia
 │   └── FOCUS_WORDS.txt
 ├── Python_Scripts
 │   ├── Files
-|     ├── agriculture_vocabulary_examples.csv
-|     ├── construction_vocabulary_examples.csv
-|     ├── cooking_vocabulary_examples.csv
-|     ├── crafting_vocabulary_examples.csv
-|     └── hospitality_vocabulary_examples.csv
+|   | ├── agriculture_vocabulary_examples.csv
+|   | ├── construction_vocabulary_examples.csv
+|   | ├── cooking_vocabulary_examples.csv
+|   | ├── crafting_vocabulary_examples.csv
+|   | └── hospitality_vocabulary_examples.csv
 |   ├── Images
-|     ├── translation.ico
-|     └── vocabulary.ico
+|   | ├── translation.ico
+|   | └── vocabulary.ico
 |   ├──backend.py
 │   └── frontend.py
 ├── Terms and predictions
@@ -54,25 +54,25 @@ Then, manually adding the example sentence of each term taken from the wikipedia
 │   └── explain_predictions_full_table.csv
 ├── codes
 |  ├── 1_data_crawl
-|    └──crawler.py
+|  | └──crawler.py
 |  ├── 2_Tokenization_Remove_punc_symbols_numbers
-|    ├── 2_1_token_remove_punct
-|      └── tk_rem_punc.py
-|    ├── 2_2_Remove_symbols
-|      ├── rem_symb.py
-|      └── symbols.txt
-|    ├── 2_3_remove_digits
-|      └── rem_num.py
+|  | ├── 2_1_token_remove_punct
+|  | | └── tk_rem_punc.py
+|  | ├── 2_2_Remove_symbols
+|  | | ├── rem_symb.py
+|  | | └── symbols.txt
+|  | ├── 2_3_remove_digits
+|  |   └── rem_num.py
 |  ├── 3_Remove_Stopwords
-|    ├── rm_stp.py
-|    └── stopwords.txt
-|  ├── 4_Stemming_Lemmatization
+|  | ├── rm_stp.py
+|  | └── stopwords.txt
+|  └── 4_Stemming_Lemmatization
 |    ├── Lemmatization
-|      └── lemm.py
-|    ├── Stemming
+|    | └── lemm.py
+|    └── Stemming
 |      └── stemm.py
 ├── dist
-│   ├── Sub-language Vocabulary Translator
+│   └── Sub-language Vocabulary Translator
 │     ├──_internal
 |     └── Sub-Vocabulary Translator.exe
 ├── LICENSE
